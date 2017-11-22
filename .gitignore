@@ -9,6 +9,9 @@
 # production
 /build
 
+# Environment variables
+.env
+
 # editor
 .vscode
 .chrome
